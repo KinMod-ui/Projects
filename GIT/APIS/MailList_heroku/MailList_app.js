@@ -36,7 +36,7 @@ app.post("/" , function(req , res){
 
     const options = {
         method: "POST",
-        auth: "Kinmmod:c02a69c66fefdd063c66a71ac1e13de4-us10"
+        auth: ""
     }
 
     const request = https.request(url , options , function(response){
