@@ -66,7 +66,7 @@ app.listen(process.env.PORT || 3000 , function(){
     console.log("Server is running")
 })
 
-// const api_key = "c02a69c66fefdd063c66a71ac1e13de4-us10"
+
 
 // 
 
