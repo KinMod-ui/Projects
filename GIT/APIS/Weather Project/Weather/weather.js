@@ -6,7 +6,7 @@ const app = express();
 app.use(parser.urlencoded({extended:true}))
 
 
-const appId = "21032bc6351ac032969672656c0bb7e8"
+
 const unit = "metric"
 
 
